@@ -9,6 +9,8 @@
 3. Склонируйте репозиторий, используя https протокол. - **выполнено!** git clone https://https://github.com/iyadgarov/test
 4. Перейдите в каталог с клоном репозитория. - **выполнено!**
 5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+    ![alt screenshot1] (https://github.com/iyadgarov/test/blob/main/img/git-global.jpg)
+
 6. `Заполните здесь этапы выполнения, если требуется ....`
 7. `Заполните здесь этапы выполнения, если требуется ....`
 8. `Заполните здесь этапы выполнения, если требуется ....`
