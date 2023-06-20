@@ -11,19 +11,27 @@
 5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.  
     '![alt screenshot1](https://github.com/iyadgarov/test/blob/main/img/git-global.jpg)'
 
-6. `Заполните здесь этапы выполнения, если требуется ....`
-7. `Заполните здесь этапы выполнения, если требуется ....`
-8. `Заполните здесь этапы выполнения, если требуется ....`
-9. `Заполните здесь этапы выполнения, если требуется ....`
-10. 
+6. Выполните команду git status и запомните результат.  
+    '![alt screenshot2](img/git-status1.png)'
 
-```
+7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified..`  
+    **выполнено!**
+8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.  
+    '![alt screenshot2](img/git-status2.png)'
+9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.  
+    '![alt screenshot3](img/git-diff.png)'
+10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.  
+    '![alt screenshot4]9(img/git-staged.png)'  
+11. Ещё раз выполните команды git diff и git diff --staged.
+    '![alt screenshot2](img/git-status3.png)'
+
+
 Поле для вставки кода...
 ....
 ....
 ....
 ....
-```
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
