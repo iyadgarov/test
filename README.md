@@ -78,6 +78,7 @@ https://github.com/iyadgarov/test/tree/2980c29be6b6a0047d8882f88b3d7bbd5d1f5b72
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
 
+https://github.com/iyadgarov/test/network
 
 ---
 ## Дополнительные задания (со звездочкой*)
