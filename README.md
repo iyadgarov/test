@@ -30,7 +30,7 @@
 11. Ещё раз выполните команды git diff и git diff --staged.  
     **выполнено!**
 12. Теперь можно сделать коммит git commit -m 'First commit'.  
-    **выполнено!**
+    **выполнено!**  
     '![alt screenshot5](img/git-commit.png)'
 13. Сделайте git push origin master
     **выполнено!**
