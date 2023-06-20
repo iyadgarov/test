@@ -8,22 +8,33 @@
 2. Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README». - **выполнено!** test
 3. Склонируйте репозиторий, используя https протокол. - **выполнено!** git clone https://https://github.com/iyadgarov/test
 4. Перейдите в каталог с клоном репозитория. - **выполнено!**
-5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.  
+5. Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
+   **выполнено!**  
     '![alt screenshot1](https://github.com/iyadgarov/test/blob/main/img/git-global.jpg)'
 
-6. Выполните команду git status и запомните результат.  
+6. Выполните команду git status и запомните результат.
+   **выполнено!**  
     '![alt screenshot2](img/git-status1.png)'
 
 7. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified..`  
-    **выполнено!**
-8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.  
+    **выполнено!** 
+8. Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
+    **выполнено!**    
     '![alt screenshot2](img/git-status2.png)'
-9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.  
+9. Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
+    **выполнено!**
     '![alt screenshot3](img/git-diff.png)'
 10. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.  
-    '![alt screenshot4]9(img/git-staged.png)'  
-11. Ещё раз выполните команды git diff и git diff --staged.
-    '![alt screenshot2](img/git-status3.png)'
+    **выполнено!**  
+    '![alt screenshot4](img/git-staged.png)'  
+11. Ещё раз выполните команды git diff и git diff --staged.  
+    **выполнено!**
+12. Теперь можно сделать коммит git commit -m 'First commit'.  
+    **выполнено!**
+    '![alt screenshot5](img/git-commit.png)'
+13. Сделайте git push origin master
+    **выполнено!**
+    
 
 
 Поле для вставки кода...
