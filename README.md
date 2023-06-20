@@ -33,7 +33,7 @@
 13. Сделайте git push origin master  
     **выполнено!**
     
-~https://github.com/iyadgarov/test/tree/6652ad0e28aeac5b0a68714a07c23738e043dbb2~ (Каюсь был не внимателен)  
+~https://github.com/iyadgarov/test/tree/6652ad0e28aeac5b0a68714a07c23738e043dbb2~ (Каюсь был невнимателен)  
 данная ссылка на последний комит задания №-1  
 https://github.com/iyadgarov/test/commit/e17a2ca1fb2bc58a59e5f2b858e8fd686620f7d5
 
@@ -56,7 +56,7 @@ https://github.com/iyadgarov/test/commit/e17a2ca1fb2bc58a59e5f2b858e8fd686620f7d
    '![alt sc4](img/zd2-sc4.png)'
 
 
-~https://github.com/iyadgarov/test/tree/2980c29be6b6a0047d8882f88b3d7bbd5d1f5b72~ (Прошу прошения за не внимательность)  
+~https://github.com/iyadgarov/test/tree/2980c29be6b6a0047d8882f88b3d7bbd5d1f5b72~ (Прошу прошения за невнимательность)  
 Данная ссылка на последний комит задания №-2
 https://github.com/iyadgarov/test/commit/92d1a928bed11d3a27c84adc0a0737bb53979e82
 ---
