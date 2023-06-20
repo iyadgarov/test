@@ -59,6 +59,8 @@ https://github.com/iyadgarov/test/commit/e17a2ca1fb2bc58a59e5f2b858e8fd686620f7d
 ~https://github.com/iyadgarov/test/tree/2980c29be6b6a0047d8882f88b3d7bbd5d1f5b72~ (Прошу прошения за невнимательность)  
 Данная ссылка на последний комит задания №-2
 https://github.com/iyadgarov/test/commit/92d1a928bed11d3a27c84adc0a0737bb53979e82
+**Ссылка на комит заполнения файла .gitignore**  
+https://github.com/iyadgarov/test/commit/0e7c5e10f0e030425b412381eae8efe4d2287d71
 ---
 
 ### Задание 3
